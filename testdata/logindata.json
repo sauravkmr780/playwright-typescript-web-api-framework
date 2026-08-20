@@ -1,0 +1,32 @@
+[
+  {
+    "email": "sauravkmr780@gmail.com",
+    "password": "@1Infosys",
+    "validity": "valid"
+  },
+  {
+    "email": "sauravkmr780@gmail.com",
+    "password": "@5Infosys",
+    "validity": "invalid"
+  },
+  {
+    "email": "sauravkmr789@gmail.com",
+    "password": "@1Infosys",
+    "validity": "invalid"
+  },
+  {
+    "email": "",
+    "password": "@1Infosys",
+    "validity": "invalid"
+  },
+  {
+    "email": "sauravkmr789@gmail.com",
+    "password": "",
+    "validity": "invalid"
+  },
+  {
+    "email": "",
+    "password": "",
+    "validity": "invalid"
+  }
+]

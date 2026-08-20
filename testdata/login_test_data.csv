@@ -1,0 +1,7 @@
+email,password,validity
+sauravkmr780@gmail.com,@1Infosys,valid
+sauravkmr780@gmail.com,@5Infosys,invalid
+sauravkmr789@gmail.com,@1Infosys,invalid
+,@1Infosys,invalid
+sauravkmr789@gmail.com,,invalid
+,,invalid

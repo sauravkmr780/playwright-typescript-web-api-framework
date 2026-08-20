@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Playwright Test Execution & Cache
+/test-results/
+/playwright-report/
+/blob-report/
+/.playwright/
+/.tmp/
+
+# Custom & Framework Artifacts
+/allure-report/
+/allure-results/
+/html-report/
+/screenshots/
+/downloads/
+/uploads/
+
+# Reporter Output Files (Without leading slash so it catches them anywhere)
+result.xml
+result.json
+
+# Environment / OS / IDE Files
+.env
+.DS_Store
+.vscode/
+.idea/
