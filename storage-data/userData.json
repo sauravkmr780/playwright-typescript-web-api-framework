@@ -1,0 +1,18 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://sdetqa.vercel.app",
+      "localStorage": [
+        {
+          "name": "auth_session_user",
+          "value": "testuser1"
+        },
+        {
+          "name": "auth_session_testuser1",
+          "value": "authenticated"
+        }
+      ]
+    }
+  ]
+}

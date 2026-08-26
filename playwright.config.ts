@@ -49,11 +49,12 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     trace: 'retain-on-failure-and-retries',//in case for failure record trace //added by Saurav
-    testIdAttribute:'data-pw',// configured data-testid attribute value //added by Saurav
+    //testIdAttribute:'data-pw',// configured data-testid attribute value //added by Saurav
     //viewport: {width:1280, height:720},  //global viewport setup for all test //added by Saurav
     screenshot:'only-on-failure',//in case for failure record screenshot //added by Saurav
     video:'retain-on-failure',//in case for failure record video //added by Saurav
     //baseURL:'https://restful-booker.herokuapp.com',//added by Saurav for api testing
+    headless:false,//added by Saurav
   },
 
   /* Configure projects for major browsers */
