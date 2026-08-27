@@ -1,6 +1,6 @@
 # 🚀 Enterprise Playwright TypeScript Hybrid Test Automation Framework
 
-An end-to-end Web UI and API automation framework built with **Playwright**, **TypeScript**, **Page Object Model (POM)**, featuring **Visual Regression**, **Accessibility (a11y) Testing**, **Full UI/Keyboard Actions**, and **Allure Reporting**.
+An end-to-end Web UI and API automation framework built with **Playwright**, **TypeScript**, **Page Object Model (POM)**, featuring **Visual Regression**, **Accessibility (a11y) Testing**, **Full UI/Keyboard Actions**, **Allure Reporting**,**OAuth2.0 Authentication**, **Network Mocking and Interception**
 
 ---
 
