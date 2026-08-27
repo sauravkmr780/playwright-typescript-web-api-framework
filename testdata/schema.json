@@ -19,5 +19,6 @@
     "lastName",
     "city",
     "state"
-  ]
+  ],
+  "additionalProperties":false
 }
